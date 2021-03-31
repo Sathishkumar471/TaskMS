@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarketSimplified</string>
+
+    <string name="home">Home</string>
+    <string name="detail">Detail</string>
+    <string name="add_command">Add Command</string>
+</resources>

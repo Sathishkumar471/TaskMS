@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task</string>
+
+    <string name="home">Home</string>
+    <string name="comment">Comment</string>
+    <string name="details">Details</string>
+</resources>

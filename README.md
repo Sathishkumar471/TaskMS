@@ -1,0 +1,5 @@
+# TaskMS
+
+Retrofit
+Glide
+MVP

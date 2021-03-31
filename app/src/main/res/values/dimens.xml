@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <dimen name="list_row_name_margin_left">15dp</dimen>
+    <dimen name="row_name_margin_top">10dp</dimen>
+    <dimen name="list_row_name_size">12sp</dimen>
+    <dimen name="list_row_desc_margin_top">8dp</dimen>
+    <dimen name="list_row_desc_txt_size">10sp</dimen>
+    <dimen name="list_row_command_txt_size">10sp</dimen>
+
+</resources>
